@@ -1,0 +1,17 @@
+{
+  "name": "the-frogger",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "frog dev"
+  },
+  "dependencies": {
+    "@hono/node-server": "latest",
+    "frog": "latest",
+    "hono": "^4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.26",
+    "typescript": "latest"
+  }
+}
